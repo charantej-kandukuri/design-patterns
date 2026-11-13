@@ -1,6 +1,8 @@
-# Command Pattern
+# [Command Pattern](https://www.geeksforgeeks.org/system-design/command-pattern/)
 
 In command pattern we decouple the **invoker** from the **receiver**.
+
+It turns a request or action into a standalone object, decoupling the code that triggers an action from the code that actually performs it.
 
 ![command-pattern](command-pattern.drawio.png)
 
