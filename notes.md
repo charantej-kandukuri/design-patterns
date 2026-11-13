@@ -1,5 +1,6 @@
 # Design Patterns
 
+The classic maxim in object-oriented programming is "**favor composition over inheritance.**"
 
 ## Class
 The class contains a constructor, fields and methods.
